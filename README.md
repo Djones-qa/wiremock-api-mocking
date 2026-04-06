@@ -2,7 +2,7 @@
 
 A Java test project demonstrating API mocking with [WireMock](https://wiremock.org/), [REST Assured](https://rest-assured.io/), and [TestNG](https://testng.org/).
 
-![CI](https://github.com/YOUR_USERNAME/wiremock-api-mocking/actions/workflows/wiremock-tests.yml/badge.svg)
+![CI](https://github.com/Djones-qa/wiremock-api-mocking/actions/workflows/wiremock-tests.yml/badge.svg)
 
 ## What's covered
 
