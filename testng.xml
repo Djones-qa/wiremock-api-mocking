@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="WireMock API Mocking Suite" verbose="1">
+    <test name="User API Mock Tests">
+        <classes>
+            <class name="com.wiremock.tests.UserApiMockTest"/>
+        </classes>
+    </test>
+    <test name="Error and Delay Mock Tests">
+        <classes>
+            <class name="com.wiremock.tests.ErrorAndDelayMockTest"/>
+        </classes>
+    </test>
+</suite>
